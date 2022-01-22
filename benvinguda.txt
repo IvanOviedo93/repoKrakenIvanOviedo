@@ -4,3 +4,4 @@ Ivan Oviedo
 (C) Benvinguda a la branca 02 IvanOviedo
 (D) Modificació 02 Main IvanOviedo
 (E) Afegim imatge a branca01
+(F) Afegim imatge a branca02
